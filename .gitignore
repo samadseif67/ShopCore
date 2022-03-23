@@ -1,0 +1,11 @@
+.vs
+Shop.Common/bin
+Shop.Common/obj
+Shop.Data/bin
+Shop.Data/obj
+Shop.Presentation/bin
+Shop.Presentation/obj
+Shop.Repo/bin
+Shop.Repo/obj
+Shop.Services/bin
+Shop.Services/obj
